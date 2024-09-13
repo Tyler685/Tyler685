@@ -2,7 +2,6 @@
 
 Im Tyler Banyas, beginner programmer. You can contact me at tylerban86@gmail.com
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on: Conditionals
 - 🌱 I’m currently learning: Python
